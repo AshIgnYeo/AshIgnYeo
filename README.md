@@ -1,3 +1,4 @@
 # Ashley Ignatius Yeo
 
-I will update this in due time. 
+Full stack developer and Teacher at LeWagon Singapore. 
+Everything else will be filled in due time.

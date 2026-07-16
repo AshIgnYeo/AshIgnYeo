@@ -2,11 +2,11 @@
 
 🚀 Founder & Director @ [Roqley](https://roqley.com)
 
-We help SMEs put AI to work — from strategy through to shipped systems. Custom automations, agentic workflows, and software that replaces the spreadsheets holding businesses back.
+Helping modernise individuals and businesses in the AI era, custom automations, agentic workflows, software, and AI architecture that replaces the spreadsheets and processes holding businesses back.
 
 🔧 Currently building:
-- **[OctaneCRM](https://octanecrm.com)** — workshop management SaaS for Singapore's automotive trade (Next.js, Supabase, PayNow, Singpass integration)
-- **[FebieApp](https://febie.io)** — an AI assistant that acts on your behalf as its own identity, not just another chatbot
+- **[OctaneCRM](https://octanecrm.com)** - workshop management SaaS for Singapore's automotive trade (Next.js, Supabase, PayNow, Singpass integration)
+- **[FebieApp](https://febie.io)** - an AI assistant that acts on your behalf as its own identity, not just another chatbot
 - Bespoke AI and automation systems for Roqley clients
 
 🛠️ Stack of choice: Next.js, TypeScript, Supabase, Tailwind, Railway, n8n, and the Anthropic API. Still fond of Ruby, though we see each other less these days.
